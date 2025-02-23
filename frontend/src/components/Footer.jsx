@@ -5,15 +5,15 @@ const Footer = () => {
 				<p className='text-balance text-center text-sm leading-loose text-muted-foreground md:text-left'>
 					Built by{" "}
 					<a
-						href='https://github.com/burakorkmez'
+						href='https://github.com/syam1433'
 						target='_blank'
 						className='font-medium underline underline-offset-4'
 					>
-						you
+						shyam
 					</a>
 					. The source code is available on{" "}
 					<a
-						href='https://github.com/burakorkmez'
+						href='https://github.com/syam1433/netflix-clone'
 						target='_blank'
 						rel='noreferrer'
 						className='font-medium underline underline-offset-4'
